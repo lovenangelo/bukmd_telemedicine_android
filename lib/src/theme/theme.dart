@@ -7,7 +7,7 @@ var secondaryColor = const Color(0xff3A60AC);
 var appTheme = ThemeData(
     textTheme: Typography.englishLike2018.apply(fontSizeFactor: 1, bodyColor: Colors.black, displayColor: Colors.black),
     fontFamily: 'Poppins',
-    // useMaterial3: true,
+    useMaterial3: true,
     elevatedButtonTheme: ElevatedButtonThemeData(
       style: ButtonStyle(
         backgroundColor: MaterialStateProperty.all<Color>(

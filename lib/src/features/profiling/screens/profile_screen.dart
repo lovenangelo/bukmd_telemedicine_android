@@ -6,7 +6,6 @@ import '../../../theme/theme.dart';
 
 import '../../../widgets/divider.dart';
 import '../../../widgets/profile_user_image.dart';
-import '../../video_call/call.dart';
 import 'profile_drawer.dart';
 
 class ProfileScreen extends ConsumerStatefulWidget {

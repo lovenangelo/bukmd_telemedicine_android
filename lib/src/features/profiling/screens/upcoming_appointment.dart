@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 import 'package:bukmd_telemedicine/src/shared/presentation/error_page.dart';
 import 'package:bukmd_telemedicine/src/theme/theme.dart';
 import 'package:flutter/material.dart';

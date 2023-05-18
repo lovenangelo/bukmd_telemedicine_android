@@ -10,7 +10,7 @@ import '../../wrappers/auth_wrapper.dart';
 
 const appId = '6091feca46a246fe88be7cbbf11cce77';
 const token =
-    '007eJxTYOi0Z11zmikwcdeK1ROyQ89W//mrv05J//KW7TlX9vkZTutQYDAzsDRMS01ONDFLNDIxS0u1sEhKNU9OSkozNExOTjU3fyC/P7khkJFhjUQ7IyMDBIL4QgxJpdm5KfHJ+XnFpTkliSWZ+XkMDAC+VCch';
+    '007eJxTYJhZmS61fGdUZuHFUv3p+RIXvmv2zlE88HFyOpOa689v0eUKDGYGloZpqcmJJmaJRiZmaakWFkmp5slJSWmGhsnJqebmSjvTUhoCGRm2TatjYIRCEF+IIak0OzclPjk/r7g0pySxJDM/j4EBAHNHJlM=';
 const channel = 'bukmd_consultation';
 
 class CallScreen extends ConsumerStatefulWidget {

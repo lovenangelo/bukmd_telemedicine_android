@@ -7,7 +7,6 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../../../shared/presentation/no_record.dart';
 import '../../../theme/theme.dart';
 import '../../../widgets/doctor_appointments_lv.dart';
-import '../../../widgets/loading_screen.dart';
 import '../application/firestore_doctor_appointments_controller.dart';
 
 class AppointmentRequestScreen extends ConsumerStatefulWidget {

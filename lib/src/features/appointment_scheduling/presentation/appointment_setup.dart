@@ -4,7 +4,6 @@ import 'package:bukmd_telemedicine/src/features/appointment_scheduling/applicati
 import 'package:bukmd_telemedicine/src/features/appointment_scheduling/application/appointment_calendar/event_provider.dart';
 import 'package:bukmd_telemedicine/src/features/appointment_scheduling/application/appointment_screen/appointments_provider.dart';
 import 'package:bukmd_telemedicine/src/features/appointment_scheduling/application/appointment_screen/student_request_appointment_status_provider.dart';
-import 'package:bukmd_telemedicine/src/features/appointment_scheduling/application/appointment_setup/dropdown_provider.dart';
 import 'package:bukmd_telemedicine/src/features/appointment_scheduling/infrastructure/student_appointment_requests_controller.dart';
 import 'package:bukmd_telemedicine/src/theme/theme.dart';
 import 'package:bukmd_telemedicine/src/widgets/remove_screen_keyboard.dart';
