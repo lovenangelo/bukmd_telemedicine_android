@@ -1,0 +1,88 @@
+name: bukmd_telemedicine
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.3 <3.0.0"
+
+dependencies:
+  age_calculator: ^1.0.0
+  agora_rtc_engine: ^5.3.0
+  cloud_firestore: ^4.3.0
+  cupertino_icons: ^1.0.2
+  email_validator: ^2.0.0-nullsafety
+  file_picker: ^5.0.1
+  filesize: ^2.0.1
+  firebase_auth: ^4.1.4
+  firebase_core: ^2.3.0
+  firebase_storage: ^11.0.6
+  flutter:
+    sdk: flutter
+  flutter_linkify: ^5.0.2
+  flutter_riverpod: ^2.0.0-dev.9
+  flutter_svg: ^1.1.1+1
+  http: ^0.13.5
+  image_picker: ^0.8.5+3
+  intl: ^0.17.0
+  permission_handler: ^10.0.0
+  syncfusion_flutter_calendar: ^20.3.58
+  syncfusion_flutter_pdf: ^20.2.43
+  syncfusion_flutter_signaturepad: ^20.2.43
+  syncfusion_flutter_pdfviewer: ^20.2.45-beta
+  url_launcher: ^6.1.5
+  validators: ^3.0.0
+  freezed_annotation: ^2.1.0
+  connectivity_plus: ^2.3.6+1
+  dartz: ^0.10.1
+  cached_network_image: ^3.2.1
+  flutter_cache_manager: ^3.3.0
+  flutter_native_splash: ^2.2.7
+  path_provider: ^2.0.7
+  responsive_framework: ^0.2.0
+  circular_countdown_timer: ^0.2.3
+  validatorless: ^1.2.3
+  flutter_easyloading: ^3.0.5
+  syncfusion_flutter_charts: ^20.3.59
+  in_date_utils: ^1.1.0
+  date_field: ^3.0.2
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.10.0
+  freezed: ^2.1.0+1
+  build_runner: ^2.2.0
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter_icons:
+  android: true
+  image_path: lib/src/assets/logo/playstore-icon.png
+
+flutter_native_splash:
+  color: "#ffffff"
+  image: lib/src/assets/logo/bukmd_logo.png
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/src/assets/logo/bukmd-logo.svg
+    - lib/src/assets/images/no-data.svg
+    - lib/src/assets/images/doctor-patient.svg
+    - lib/src/assets/images/undraw-bug-fixing.svg
+    - lib/src/assets/images/undraw-dreamer-re-9tua-error-page.svg
+    - lib/src/assets/images/verification-mail-sent.svg
+    - lib/src/assets/defaults/default-user-image.png
+    - lib/src/assets/defaults/user-icon.png
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: lib/src/assets/fonts/Poppins/Poppins-Bold.ttf
+        - asset: lib/src/assets/fonts/Poppins/Poppins-Light.ttf
+        - asset: lib/src/assets/fonts/Poppins/Poppins-Medium.ttf
+        - asset: lib/src/assets/fonts/Poppins/Poppins-Regular.ttf
+        - asset: lib/src/assets/fonts/Poppins/Poppins-SemiBold.ttf

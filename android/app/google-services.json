@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "481723856332",
+    "project_id": "bukmd-telemedicine",
+    "storage_bucket": "bukmd-telemedicine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481723856332:android:3df04db4128bf10d7c9969",
+        "android_client_info": {
+          "package_name": "com.lovenangelo.bukmd_telemedicine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481723856332-rfdacbuhdvfimpcvedapmqht5hpk5rd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqBOfThJM5fdoj34ogqpc9fCYmD3er68Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481723856332-rfdacbuhdvfimpcvedapmqht5hpk5rd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
